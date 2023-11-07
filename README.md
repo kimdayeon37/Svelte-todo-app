@@ -9,7 +9,8 @@
 4. 빈 공백 return
 5. 새로고침해도 기존 내용들이 존재
 
+
 ### 사용 기술 
 -   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 
-- Snowpack 사용하여 빌드   <img src="https://img.shields.io/badge/snowpack-0099E5?style=for-the-badge&logo=snowpack&logoColor=white">
+-  <img src="https://img.shields.io/badge/snowpack-0099E5?style=for-the-badge&logo=snowpack&logoColor=white"> Snowpack 사용하여 빌드  
