@@ -11,6 +11,8 @@
 
 
 ### 사용 기술 
+-   <img src="https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
+
 -   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 -  <img src="https://img.shields.io/badge/snowpack-0099E5?style=for-the-badge&logo=snowpack&logoColor=white"> Snowpack 사용하여 빌드  
